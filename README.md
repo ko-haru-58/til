@@ -1,6 +1,5 @@
 # til
-TIL：Today I Learned
-今日学んだことについてのアウトプットやメモです。
+TIL：Today I Learned　今日学んだことについてのアウトプットやメモです。
 
 ## ディレクトリ構成
 ### morning/
