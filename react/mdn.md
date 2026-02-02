@@ -2,7 +2,7 @@
 以下の章の、React に関するページを学習。
 - [JavaScript フレームワークとライブラリー | MDN](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Frameworks_libraries)
 
-## 2/2(月)
+## 2026/02/02(月)
 以下のページについて
 https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Frameworks_libraries/React_accessibility
 
