@@ -2,6 +2,8 @@
 以下の章の、React に関するページを学習。
 - [JavaScript フレームワークとライブラリー | MDN](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Frameworks_libraries)
 
+（2026年2月からGihhubでの記録を開始しましたが、学習は以前からしていました。そのため記録は中途半端なところからスタートしています）
+
 ## 2026/02/02(月)
 学習時間：30分  
   
