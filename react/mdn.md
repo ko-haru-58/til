@@ -4,6 +4,28 @@
 
 （2026年2月からGihhubでの記録を開始しましたが、学習は以前からしていました。そのため記録は中途半端なところからスタートしています）
 
+## 2026/02/10(火)
+学習時間：30分  
+
+引き続きusePrevious() について。
+
+usePrevious() が難しいというよりも、該当の関数に含まれている useRef() と useEffect() の方でつまづいているような気がしてきました。
+
+```
+function usePrevious(value) {
+  const ref = useRef();
+  useEffect(() => {
+    ref.current = value;
+  });
+  return ref.current;
+}
+```
+https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Frameworks_libraries/React_accessibility
+<br>
+より
+<br><br>
+次回は理解のためにこれまで出てきたフックをメモにまとめるところから始めるつもりです。
+
 ## 2026/02/05(木)
 学習時間：30分  
 
